@@ -1,0 +1,1 @@
+SELECT * FROM `sportsman` ORDER BY `visits` DESC  LIMIT 5
